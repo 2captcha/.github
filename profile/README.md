@@ -41,7 +41,7 @@ Here are some useful links to get you started:
 
 ## Join the team 👪
 
-There are many ways to contribute, of which development is only one! Find out how to get involved, including as AI experts, scrapers, developers, helping others, and much more! 😍
+There are many ways to contribute, of which development is only one! Find your next job. Open positions: AI experts, scrapers, developers, technical support, and much more! 😍
 
 [<img src="https://github.com/2captcha/.github/assets/38065632/d8bd5d7d-dc93-452d-9762-4090add4b295" width="80" height="30" />](mailto:job@2captcha.com)
 
