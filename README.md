@@ -2,11 +2,8 @@
 
 # Captcha solver
 
-CAPTCHAs hinder accessibility, frustrate users. Use the fast recognition service to bypass captcha.
+CAPTCHAs hinder accessibility, frustrate users. Use the  [captcha solver](https://2captcha.com/) to [bypass any captcha](https://2captcha.com/p/break-captcha).
 
- <!---
- ---
- /--->
 
 ## Get started with captcha solver API. Let's go!
 
@@ -14,12 +11,11 @@ To get up to speed quickly, start with [guide]().
 
 Here are some useful links to get you started:
 
-* [Google reCAPTCHA solver]()
-* [hCaptcha solver]()
-* [FunCaptcha (Arkose Labs captcha) solver]()
-* [Cloudflare Turnstile solver]()
-* [GeeTest solver]()
-* [Any captcha solver]()
+* [Google reCAPTCHA solver](https://2captcha.com/p/bypass-recaptcha)
+* [hCaptcha solver](https://2captcha.com/p/hcaptcha)
+* [FunCaptcha (Arkose Labs captcha) solver](https://2captcha.com/p/funcaptcha)
+* [Cloudflare Turnstile solver](https://2captcha.com/p/cloudflare-turnstile)
+* [Any captcha solver](https://2captcha.com/p/break-captcha)
 
 ---
 ### Captcha solver extension
