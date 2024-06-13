@@ -1,4 +1,5 @@
-[![image](https://github.com/2captcha/.github/assets/38065632/e4513a13-ec2c-42ce-9438-5a889d26bad2)](https://2captcha.com)
+[![image](https://github.com/2captcha/.github/assets/38065632/48d0fc63-e9c5-4b0d-b56d-48f5551eabe4)](https://2captcha.com)
+
 
 # Captcha solver
 
@@ -34,8 +35,9 @@ Here are some useful links to get you started:
 
 [<img src="https://github.com/2captcha/.github/assets/38065632/d8bd5d7d-dc93-452d-9762-4090add4b295" width="80" height="30" />](mailto:support@2captcha.com)  &nbsp;
 [<img src="https://github.com/2captcha/.github/assets/38065632/0f4e00ae-b419-4a3d-a3e8-360bf74af425" width="103" height="30" />](https://www.facebook.com/2captcha4customers/)  &nbsp;
-[<img src="https://github.com/2captcha/.github/assets/38065632/b8d68ffd-14b6-4412-9e80-c092b580a1ee" width="86" height="30" />](https://twitter.com/2captcha)  &nbsp;
+[<img src="https://github.com/2captcha/.github/assets/38065632/96b431f8-b06c-4ed7-bce3-31b96aee47ce" width="86" height="30" />](https://twitter.com/2captcha)  &nbsp;
 [<img src="https://github.com/2captcha/.github/assets/38065632/635a9f31-c60a-4003-be59-2270bd9ed29c" width="81" height="30" />](https://captchaforum.com/)
+
 
 ---
 
