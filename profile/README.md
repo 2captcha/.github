@@ -1,5 +1,4 @@
-[![image](https://github.com/2captcha/.github/assets/38065632/48d0fc63-e9c5-4b0d-b56d-48f5551eabe4)](https://2captcha.com)
-
+[![image](https://github.com/2captcha/.github/assets/38065632/6c164e56-6a9f-46e0-86ad-8a882e882ade)](https://2captcha.com)
 
 # Captcha solver
 
