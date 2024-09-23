@@ -24,8 +24,9 @@ Here are some useful links to get you started:
 ### Captcha solver extension
 [Captcha solver extensions](https://2captcha.com/captcha-bypass-extension) allows you to automatically solve CAPTCHAs found on any webpage.
 
-[<img src="https://github.com/2captcha/.github/assets/38065632/da65574f-566a-44a7-891d-b439b28397a2" width="158" height="30" />](https://chrome.google.com/webstore/detail/2captcha-solver/ifibfemgeogfhoebkmokieepdoobkbpo)  &nbsp;
-[<img src="https://github.com/2captcha/.github/assets/38065632/4d3db31b-807b-48fc-a1b3-c1ff1b3f8bcb" width="140" height="30" />](https://microsoftedge.microsoft.com/addons/detail/captcha-solver-auto-reco/pihoolhoncpggnckcpihaenjplkcnkod) 
+[<img src="https://github.com/2captcha/.github/assets/38065632/da65574f-566a-44a7-891d-b439b28397a2" width="158" height="30" alt="Chrome Extension" />](https://chrome.google.com/webstore/detail/2captcha-solver/ifibfemgeogfhoebkmokieepdoobkbpo)  &nbsp;
+[<img src="https://github.com/user-attachments/assets/1282537c-d51b-470d-a0d2-622a40f42e2e" width="129" height="30" alt="Firefox Addon" />](https://addons.mozilla.org/en-US/firefox/addon/2captcha-solver/)  &nbsp;
+[<img src="https://github.com/2captcha/.github/assets/38065632/4d3db31b-807b-48fc-a1b3-c1ff1b3f8bcb" width="140" height="30" alt="Microsoft Edge" />](https://microsoftedge.microsoft.com/addons/detail/captcha-solver-auto-reco/pihoolhoncpggnckcpihaenjplkcnkod) 
 
 <!--
 [<img src="https://github.com/2captcha/.github/assets/38065632/c9c23e02-18ef-4fa6-bcf6-8c78229b557b" width="129" height="30" />](https://addons.mozilla.org/firefox/addon/2captcha-solver)
