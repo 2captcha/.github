@@ -13,7 +13,6 @@ To get up to speed quickly, start with [captcha solver API documentation](https:
 Here are some useful links to get you started:
 
 * [Google reCAPTCHA solver](https://2captcha.com/p/bypass-recaptcha)
-* [hCaptcha solver](https://2captcha.com/p/hcaptcha)
 * [Image CAPTCHA solver](https://2captcha.com/p/simple_captcha)
 * [FunCaptcha (Arkose Labs captcha) solver](https://2captcha.com/p/funcaptcha)
 * [Cloudflare Turnstile captcha solver](https://2captcha.com/p/cloudflare-turnstile)
